@@ -1,0 +1,6 @@
+DBConfig:
+  SCHEMA: sandbox-cobra
+  User: admin
+  Password: password
+  Host: localhost
+  Port: 3306
